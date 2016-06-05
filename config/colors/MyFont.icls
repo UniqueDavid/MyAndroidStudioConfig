@@ -1,0 +1,29 @@
+<scheme name="MyFont" version="141" parent_scheme="Default">
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="EDITOR_FONT_NAME" value="Consolas" />
+  <attributes>
+    <option name="DEFAULT_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="80" />
+        <option name="BACKGROUND" value="ffffff" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LOGCAT_ASSERT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="77f06" />
+      </value>
+    </option>
+    <option name="LOGCAT_INFO_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="181818" />
+      </value>
+    </option>
+    <option name="LOGCAT_WARNING_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="7f6607" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

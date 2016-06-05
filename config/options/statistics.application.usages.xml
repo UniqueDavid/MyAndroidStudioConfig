@@ -1,0 +1,54 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="vcs">
+      <project id="SmartAnhui" values="svn" collectionTime="1465091258206" />
+    </group>
+    <group name="file-type">
+      <project id="HelloWorld" values="UNKNOWN,PLAIN_TEXT,Images,ARCHIVE,XML,IDEA_MODULE,Groovy,JAVA,ProGuard File,Properties" collectionTime="1465055096006" />
+      <project id="SmartAnhui" values="Properties,ProGuard File,IDEA_MODULE,JAVA,ARCHIVE,Images,CLASS,UNKNOWN,XML,PLAIN_TEXT" collectionTime="1465091258312" />
+      <project id="My Application" values="Groovy,ARCHIVE,IDEA_MODULE,ProGuard File,XML,AIDL,PLAIN_TEXT,JAVA,Images,Properties,UNKNOWN" collectionTime="1453782279605" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="My Application" values="AndroidRunConfigurationType" collectionTime="1453782279204" />
+    </group>
+    <group name="language-level">
+      <project id="HelloWorld" values="JDK_1_7" collectionTime="1465055096613" />
+      <project id="SmartAnhui" values="JDK_1_8" collectionTime="1465091258349" />
+      <project id="My Application" values="JDK_1_7" collectionTime="1453782279651" />
+    </group>
+    <group name="svn working copy format">
+      <project id="SmartAnhui" values="1.8" collectionTime="1465091258359" />
+    </group>
+    <group name="frameworks">
+      <project id="HelloWorld" values="android,android-gradle" collectionTime="1465055095511" />
+      <project id="My Application" values="android,android-gradle,java-gradle" collectionTime="1453782279148" />
+    </group>
+    <group name="module type">
+      <project id="HelloWorld" values="JAVA_MODULE" collectionTime="1465055095512" />
+      <project id="SmartAnhui" values="JAVA_MODULE" collectionTime="1465091258207" />
+      <project id="My Application" values="JAVA_MODULE" collectionTime="1453782279148" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="ide.settings.Android_Logcat" count="1" />
+      <entry feature="ide.settings.Appearance" count="8" />
+      <entry feature="ide.settings.Auto_Import" count="1" />
+      <entry feature="ide.settings.Code_Completion" count="1" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="1" />
+      <entry feature="ide.settings.Console_Font" count="1" />
+      <entry feature="ide.settings.Font" count="2" />
+      <entry feature="ide.settings.General" count="1" />
+      <entry feature="ide.settings.GitHub" count="1" />
+      <entry feature="ide.settings.HTTP_Proxy" count="2" />
+      <entry feature="ide.settings.Java" count="1" />
+      <entry feature="ide.settings.Keymap" count="2" />
+      <entry feature="ide.settings.Menus_and_Toolbars" count="6" />
+      <entry feature="ide.settings.Plugins" count="2" />
+      <entry feature="ide.settings.Subversion" count="1" />
+      <entry feature="ide.settings.System_Settings" count="2" />
+      <entry feature="ide.settings.Updates" count="1" />
+      <entry feature="ideaapp.started" count="6" />
+    </counts>
+  </component>
+</application>

@@ -1,0 +1,6 @@
+<keymap version="1" name="MyEclipse" parent="Eclipse">
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="alt SLASH" />
+  </action>
+  <action id="HippieCompletion" />
+</keymap>

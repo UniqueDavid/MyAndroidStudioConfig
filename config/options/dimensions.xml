@@ -1,0 +1,18 @@
+<application>
+  <component name="DimensionService">
+    <location key="#HTTP_Proxy.0.0.1366.768" x="458" y="95" />
+    <location key="WELCOME_SCREEN.0.0.1366.768" x="683" y="372" />
+    <location key="FileChooserDialogImpl.0.0.1366.768" x="463" y="95" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1366.768" x="390" y="175" />
+    <location key="SettingsEditor.0.0.1366.768" x="121" y="14" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1366.768" x="137" y="12" />
+    <location key="ProcessPopupWindow.0.0.1366.768" x="1023" y="594" />
+    <location key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.0.0.1366.768" x="509" y="227" />
+    <location key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog.0.0.1366.768" x="452" y="136" />
+    <location key="#Menus_and_Toolbars.0.0.1366.768" x="420" y="150" />
+    <location key="#Browse_Repositories.0.0.1366.768" x="323" y="13" />
+    <size key="ProcessPopupWindow.0.0.1366.768" width="336" height="117" />
+    <size key="SettingsEditor.0.0.1366.768" width="1245" height="695" />
+    <size key="javadoc.popup.0.0.1366.768" width="594" height="196" />
+  </component>
+</application>
